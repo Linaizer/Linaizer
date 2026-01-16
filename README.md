@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I`m Kolya, a Frontend developer from Ukraine
-
+I develop, update, and improve websites.
 
 <!--
 **Linaizer/Linaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
