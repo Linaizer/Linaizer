@@ -1,19 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m a Frontend Developer
 
-I`m Kolya, a Frontend developer from Ukraine
-I develop, update, and improve websites.
+My main language is **JavaScript**, and I’m actively transitioning to **TypeScript** to write more structured and reliable code.
 
-<!--
-**Linaizer/Linaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub profile contains my practice projects and experiments created during the learning process.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **JavaScript** (main language)
+- **TypeScript** (actively learning and using)
+- HTML & CSS
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+I am currently working on a frontend project as part of the **WinWintTravel** team.
+
+In this repository, you can also find my practice and learning projects that reflect my progress and growing experience in frontend development.
+
+---
+
+## 🎯 Goals
+
+- Transition fully from JavaScript to TypeScript
+- Write clean, readable, and maintainable code
+- Improve frontend fundamentals
+- Be ready for a **Junior Frontend Developer** position
+
+---
+
+## 📫 Contact
+
+You can reach me here on GitHub.  
+Thanks for visiting my profile!
