@@ -17,7 +17,7 @@ This GitHub profile contains my practice projects and experiments created during
 
 ## 📂 Projects
 
-I am currently working on a frontend project as part of the **WinWintTravel** team.
+I am  worked on a frontend project as part of the **WinWintTravel** team.
 
 In this repository, you can also find my practice and learning projects that reflect my progress and growing experience in frontend development.
 
