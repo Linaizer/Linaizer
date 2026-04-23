@@ -84,7 +84,6 @@ In this repository you will find:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Linaizer
 - Email: ponomar.kolya10@gmail.com
 
 ---
