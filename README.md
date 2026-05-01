@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Mykola Ponomar
 ### Frontend Developer
 
-Frontend Developer passionate about building modern web applications and improving user experience.
-
-I have **2+ years of experience working with JavaScript** and building frontend projects.  
-Over the past year I have been actively working with **TypeScript and Zustand**, focusing on scalable architecture and clean code.
+Frontend Developer focused on React + TypeScript, with hands-on experience in scalable
+architecture (FSD), REST API integration, and real-time features. Built and shipped multiple
+fullstack projects end-to-end — from PostgreSQL schema to polished UI.
 
 ---
 
