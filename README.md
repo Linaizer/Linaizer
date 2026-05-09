@@ -1,90 +1,41 @@
-# 👋 Hi, I'm Mykola Ponomar
-### Frontend Developer
+# Mykola Ponomar — Frontend Developer
 
-Frontend Developer focused on React + TypeScript, with hands-on experience in scalable
-architecture (FSD), REST API integration, and real-time features. Built and shipped multiple
-fullstack projects end-to-end — from PostgreSQL schema to polished UI.
+React · TypeScript · Feature-Sliced Design
 
 ---
 
-## 🚀 About Me
+## Stack
 
-- 💻 Frontend Developer focused on modern React applications
-- 🧩 Experienced with **Feature-Sliced Design (FSD)**
-- 🔧 Building reusable components and custom hooks
-- 🌍 Experience working with **API integrations and internationalization (i18n)**
-- 📚 Continuously learning and improving my frontend development skills
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-gray?style=flat)
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-- **JavaScript** — 2 years
-- **TypeScript** — 1 year
-
-### Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### State Management
-- **Zustand** — 1 year
-- Redux (basic experience)
-
-### Tools
-- Git
-- REST API integration
-
-### Architecture
-- Feature-Sliced Design (FSD)
-
-### Other
-- React Router
-- Custom Hooks
-- i18n
+**JS** — 2 yrs · **TS** — 1 yr · **React** · **Zustand** · **Redux (basics)**  
+Architecture: **Feature-Sliced Design** · **i18n** · **React Router** · Custom Hooks
 
 ---
 
-## 💼 Work Experience
+## Projects
 
-### Frontend Developer — WinWin.travel
-📅 Dec 2025 — Feb 2026
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🔗 [project-name](https://github.com/...) | React, TS, Zustand | Short one-line description |
+| 🔗 [project-name](https://github.com/...) | React, FSD, REST | Short one-line description |
 
-- Contributed to development of a production web application
-- Refactored project structure using **Feature-Sliced Design**
-- Fixed bugs and improved code quality
-- Created reusable **React hooks and components**
-- Integrated **API endpoints**
-- Implemented **internationalization (i18n)**
+> Add 2–3 real projects with links. This is the most important section.
 
 ---
 
-## 📂 Projects
+## Experience
 
-In this repository you will find:
-
-- Practice projects
-- Learning experiments
-- UI implementations
-- Examples of **React architecture and state management**
-- Code that reflects my **growth as a frontend developer**
+**Frontend Developer — WinWin.travel** *(Dec 2025 – Feb 2026)*  
+Refactored codebase to FSD, built reusable hooks/components, integrated REST APIs, shipped i18n support.
 
 ---
 
-## 🌍 Languages
+## Contact
 
-- 🇬🇧 English — Intermediate
-- 🇵🇱 Polish — Advanced
-- 🇺🇦 Ukrainian — Native
-
----
-
-## 📫 Contact
-
-- Email: ponomar.kolya10@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+📧 ponomar.kolya10@gmail.com  
+🌍 English (Intermediate) · Polish (Advanced) · Ukrainian (Native)
