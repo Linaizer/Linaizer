@@ -17,8 +17,10 @@ I build production apps end-to-end — from PostgreSQL schema to polished UI.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Frontend:** React · TypeScript · Zustand · Redux · Tailwind CSS · Framer Motion · React Router · Feature-Sliced Design  
-**Backend:** Node.js · NestJS · Fastify · PostgreSQL · Prisma · TypeORM · REST API · WebSockets · JWT · BullMQ · Redis  
+**Backend:** Node.js · NestJS · Fastify · PostgreSQL · Prisma · TypeORM · REST API · WebSockets · JWT · BullMQ · Redis · Zustand ·  Redux ·  Google Drive API ·  LLM Integration · RAG ·
+pgvector
 **DevOps:** Docker · GitHub Actions · Nginx · Capacitor
+
 
 ---
 
