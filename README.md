@@ -1,4 +1,4 @@
-# Hi, I'm Mykola 👋
+# Hi, I'm Mykola 
 
 Full Stack Developer working with React, TypeScript & NestJS.  
 I build production apps end-to-end — from PostgreSQL schema to polished UI.
