@@ -26,6 +26,6 @@ pgvector
 
 ## Contact
 
-📧 ponomar.kolya10@gmail.com  
-💼 [linkedin.com/in/mykola-ponomar](https://linkedin.com/in/mykola-ponomar)  
-🌍 English (Intermediate) · Polish (Advanced) · Ukrainian (Native)
+ ponomar.kolya10@gmail.com  
+ [linkedin.com/in/mykola-ponomar](https://linkedin.com/in/mykola-ponomar)  
+ English (Intermediate) · Polish (Advanced) · Ukrainian (Native)
